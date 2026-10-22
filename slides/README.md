@@ -13,7 +13,7 @@ Press **Esc** to edit, **S** for the speaker view, and **Ctrl/⌘ S** to save.
 | [04 Secure System Design](04_secure_system_design.bento.html) | 57 |
 | [05 Secure Software Implementation](05_secure_software_implementation.bento.html) | 33 |
 | [06 Cryptography](06_cryptography.bento.html) | 66 |
-| [07 Cryptography Hands-On](07_cryptography_hands_on.bento.html) | 64 |
+| [07 Cryptography Hands-On](07_cryptography_hands_on.bento.html) | 68 |
 | [08 Network Security](08_network_security.bento.html) | 65 |
 | [09 Security Operations](09_security_operations.bento.html) | 35 |
 
