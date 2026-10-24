@@ -11,4 +11,4 @@ This directory contains all laboratory assignments for CSCI 61 - Computer Securi
 - [Lab 05: FindIt for RC4](lab05_findit_for_rc4.md)
 - [Lab 06: Configuring RAID 1 and RAID 5 on a Linux Machine](lab06_configuring_raid_1_and_raid_5_on_linux_machine.md)
 - [Lab 07: Penetration Testing](lab07_penetration_testing.md)
-- [Lab 08: SleuthKit and Autopsy](lab08_sleuthkit_and_autopsy.md)
+- [Lab 08: The Sleuth Kit and Autopsy](lab08_sleuthkit_and_autopsy.md)
